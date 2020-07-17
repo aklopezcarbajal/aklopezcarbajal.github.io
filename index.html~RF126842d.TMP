@@ -16,7 +16,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
 					<h1><strong>Ana Karen Lopez Carbajal</strong> <br />
 					responsive site template freebie<br /> </h1>
 				</div>
@@ -35,17 +35,17 @@
 							<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 						</article>
 						<article class="col-6 col-12-xsmall work-item">
-							<a class="image fit"><img src="images/thumbs/02.jpg" alt="" /></a>
+							<a href="#" class="image fit"><img src="images/thumbs/02.jpg" alt="" /></a>
 							<h3>Ultricies lacinia interdum</h3>
 							<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 						</article>
 						<article class="col-6 col-12-xsmall work-item">
-							<a class="image fit"><img src="images/thumbs/03.jpg" alt="" /></a>
+							<a href="#" class="image fit"><img src="images/thumbs/03.jpg" alt="" /></a>
 							<h3>Tortor metus commodo</h3>
 							<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 						</article>
 						<article class="col-6 col-12-xsmall work-item">
-							<a class="image fit"><img src="images/thumbs/04.jpg" alt="" /></a>
+							<a href="#" class="image fit"><img src="images/thumbs/04.jpg" alt="" /></a>
 							<h3>Quam neque phasellus</h3>
 							<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
 						</article>
@@ -137,13 +137,13 @@
 								<h5>Preformatted</h5>
 								<pre><code>i = 0;
 
-								while (!deck.isInOrder()) {
-									print 'Iteration ' + i;
-									deck.shuffle();
-									i++;
-								}
+	while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+	}
 
-								print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+	print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 							</section>
 
 							<section>
