@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Portfolio AKLC</title>
+		<title>AKLC Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -23,7 +23,21 @@
 				</h1>
 			</div>
 		</header>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="inner">
+				<ul class="icons">
+					<li><a href="https://github.com/aklopezcarbajal" class="icon brands fa-github"><span class="label">Github</span></a></li>
+					<li><a href="#three" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+				</ul>
 
+				<ul class="copyright">
+					<li>&copy; Untitled</li>
+					<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+
+			</div>
+		</footer>
 		<!-- Main -->
 		<div id="main">
 
@@ -37,12 +51,7 @@
 						<p>
 							Two-player ping-pong minigame. Project inspired by the classic video game Pong by Atari.
 							Developed in Unity 2D using C#.
-							Build in WebGL.
 						</p>
-						<ul class="actions">
-							<li><a href="#" class="button primary small">Default</a></li>
-							<li><a href="#" class="button small">Default</a></li>
-						</ul>
 					</article>
 					<article class="col-6 col-12-xsmall work-item">
 						<a class="image fit"><img src="images/thumbs/pinball.jpg" alt="" /></a>
@@ -51,10 +60,6 @@
 							Pinball machine simulation. Developed in Unity 3D using C#.
 							Build in WebGL.
 						</p>
-						<ul class="actions">
-							<li><a href="#" class="button small">Default</a></li>
-							<li><a href="#" class="button small">Default</a></li>
-						</ul>
 					</article>
 					<!--
 				<article class="col-6 col-12-xsmall work-item">
@@ -444,7 +449,7 @@
 			<div class="inner">
 				<ul class="icons">
 					<li><a href="https://github.com/aklopezcarbajal" class="icon brands fa-github"><span class="label">Github</span></a></li>
-					<li><a href="#three" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 
 				<ul class="copyright">
